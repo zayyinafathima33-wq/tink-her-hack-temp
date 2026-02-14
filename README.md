@@ -10,7 +10,6 @@
 
 ### Team Members
 - Member 1:[fathima zayyina - pptm arts and science
-- Member 2: [Name] - [College]
 
 ### Hosted Project Link
 https://zayyinafathima33-wq.github.io/tink-her-hack-temp/
@@ -85,13 +84,13 @@ Feature 4: City Facilities Directory & Profile Management A searchable directory
 #### Screenshots (Add at least 3)
 
 ![home page](https://github.com/zayyinafathima33-wq/tink-her-hack-temp/blob/main/welcome.png)
-*Add caption explaining what this shows*
+entering to next page
 
 ![dashboard](https://github.com/zayyinafathima33-wq/tink-her-hack-temp/blob/main/safety%20dashboard.png)
-*Add caption explaining what this shows*
+fakenews,livepath,safezonemap
 
 ![emergence](https://github.com/zayyinafathima33-wq/tink-her-hack-temp/blob/main/emergence.png))
-*Add caption explaining what this shows*
+contecting details for emergence
 
 #### Diagrams
 
