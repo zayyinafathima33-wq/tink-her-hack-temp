@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [solo travel safety] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: 
 
 ### Team Members
-- Member 1: [Name] - [College]
+- Member 1:[fathima zayyina - pptm arts and science
 - Member 2: [Name] - [College]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://zayyinafathima33-wq.github.io/tink-her-hack-temp/
 
 ### Project Description
-[2-3 lines about what your project does]
+[safety production for solo female trvellers]
 
 ### The Problem statement
-[What problem are you solving?]
+[safety facilities for travelling females]
 
 ### The Solution
-[How are you solving it?]
+[by creating safety app]
 
 ---
 
@@ -46,10 +46,11 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+Feature 1: Safety Dashboard with Neighborhood Pulse A central hub displaying real-time safety metrics like a "Neighborhood Pulse" score (72% Safe) and environmental caution warnings (e.g., low lighting), along with an Emergency SOS button (press & hold for 3 seconds) that triggers safety alerts.
+Feature 2: Active Alerts Map with Safe/Unsafe Zone Visualization An interactive SVG city map that visually marks Safe Zones (green) and Danger Zones (red) with a live "You Are Here" location pulse, alert popups for unsafe areas (e.g., poorly lit streets), a legend, and zoom controls.
+Feature 3: Local Emergency Services & Digital Vault Quick-dial buttons for Police (100), Medical (108), and Fire (101) services, an embassy contact link, and a Digital Vault for securely storing emergency documents (passport, ID card, emergency docs).
+Feature 4: City Facilities Directory & Profile Management A searchable directory of nearby safety-verified facilities (hospitals, police stations, verified hotels) with distance, ratings, and call buttons, plus a Profile & Settings screen with personal/medical info (blood type, allergies), dark mode toggle, low-data mode, and share live path functionality.
+
 
 ---
 
@@ -83,13 +84,13 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
+![home page](https://github.com/zayyinafathima33-wq/tink-her-hack-temp/blob/main/welcome.png)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![dashboard](https://github.com/zayyinafathima33-wq/tink-her-hack-temp/blob/main/safety%20dashboard.png)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![emergence](https://github.com/zayyinafathima33-wq/tink-her-hack-temp/blob/main/emergence.png))
 *Add caption explaining what this shows*
 
 #### Diagrams
